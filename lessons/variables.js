@@ -1,6 +1,6 @@
-var myName;
-var myAge;
-var isBob;
+var myName; //String
+var myAge; //Number
+var isBob; //Boolean
 
 myName = 'Chris';
 myAge = 37;
