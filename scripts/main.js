@@ -8,4 +8,4 @@ alert(myName);
 alert(myAge);
  */
 
-alert("Hello!)");
+//alert("Hello!)");
